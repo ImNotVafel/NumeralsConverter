@@ -8,7 +8,7 @@ Operating range: 1-3999 (inclusive).
 Requires only python (Tested versions: 3.11.0).
 
 
-## Usage Example:
+## Usage Examples:
 ```python
 # Simple tests:
 assert get_arabic_as_roman(1000) == 'M'
