@@ -15,7 +15,6 @@ RomanNumber = RomanNumeral = str
 ArabicNumber = ArabicNumeral = int
 
 NUMERALS: dict[RomanNumeral, ArabicNumeral] = {
-    # PEP8 is furious, but the dictionary is pretty
     'I' : 1,
     'IV': 4,
     'V' : 5,
